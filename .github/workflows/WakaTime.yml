@@ -1,11 +1,11 @@
-name: WakaTime Readme
+name: WakaTime
 
 on:
   push:
     branches:
       - master
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-readme:
