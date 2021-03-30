@@ -1,6 +1,6 @@
 ### Hi gaofubao 👋
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark">]
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark">
 
 I am gaofubao:
 
