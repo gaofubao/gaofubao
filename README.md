@@ -1,15 +1,15 @@
-## hello everyone 👋
+## Hello everyone 👋
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark">
 
 I am gaofubao:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I love technology
+- 🌱 I’m currently working on a small company
+- 👯 I’m currently learning golang and etcd
+- 💬 My work uses elasticsearch and kubernetes
+- 🤔 I’m looking for help with algorithm
+- 📫 How to reach me: fubao_gao@163.com
 
 ---
 
