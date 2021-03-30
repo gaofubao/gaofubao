@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark)
+![<img align="right" width="50%">](https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark)
+
 
 <!--START_SECTION:waka-->
 ```text
