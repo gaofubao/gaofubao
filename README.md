@@ -1,5 +1,7 @@
 ### Hi gaofubao 👋
 
+![<img align="right" width="50%">](https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark)
+
 I am gaofubao:
 
 - 🔭 I’m currently working on ...
@@ -11,7 +13,7 @@ I am gaofubao:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![<img align="right" width="50%">](https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark)
+---
 
 
 <!--START_SECTION:waka-->
