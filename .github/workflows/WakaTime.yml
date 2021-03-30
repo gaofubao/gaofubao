@@ -1,14 +1,12 @@
 name: WakaTime
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: '*/10 * * * *'
 
 jobs:
   update-readme:
+    name: Update this repo README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
