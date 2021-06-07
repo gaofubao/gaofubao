@@ -18,7 +18,7 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   14 mins         ██████████████▒░░░░░░░░░░   57.72 % 
-Go           9 mins          █████████▓░░░░░░░░░░░░░░░   38.75 % 
+Git Config   14 mins         ███████████████▓░░░░░░░░░   63.18 % 
+Go           7 mins          ████████▒░░░░░░░░░░░░░░░░   32.96 % 
 ```
 <!--END_SECTION:waka-->
