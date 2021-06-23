@@ -18,6 +18,6 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go           2 mins          ███████████████████▓░░░░░   78.63 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
