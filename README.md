@@ -18,10 +18,9 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go                36 hrs 55 mins  ████████████████████████▒   97.25 % 
-TOML              49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Other             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Git Config        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Protocol Buffer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Go                38 hrs 12 mins  ████████████████████████▒   97.58 % 
+TOML              48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Git Config        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Protocol Buffer   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
