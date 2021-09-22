@@ -18,9 +18,9 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go                28 hrs 9 mins   ████████████████████████░   96.42 % 
-Protocol Buffer   45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Go                20 hrs 46 mins  ████████████████████████▓   98.49 % 
+Other             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Protocol Buffer   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Markdown          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
