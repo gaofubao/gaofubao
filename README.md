@@ -18,8 +18,8 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go                19 hrs 54 mins  ████████████████████████▓   98.52 % 
-Other             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Go                25 hrs 15 mins  █████████████████████████   99.76 % 
+Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
