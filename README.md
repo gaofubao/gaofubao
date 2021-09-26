@@ -18,8 +18,10 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go                25 hrs 15 mins  █████████████████████████   99.76 % 
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Protocol Buffer   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Go           24 hrs 2 mins   ████████████████████████▓   98.47 % 
+Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Makefile     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
