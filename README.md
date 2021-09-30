@@ -2,7 +2,7 @@
 
 [![Blog Badge](https://img.shields.io/badge/blog-60k+%20pageview-brightgreen)](https://www.jianshu.com/u/d777ec56a358)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gaofubao&theme=dark">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=gaofubao&theme=onedark">
 
 I am gaofubao:
 
