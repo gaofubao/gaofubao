@@ -18,7 +18,7 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go           14 hrs 44 mins  ████████████████████████▓   99.04 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Go           10 hrs 33 mins  █████████████████████████   99.46 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
