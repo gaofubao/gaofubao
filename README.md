@@ -18,8 +18,10 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go               14 hrs 11 mins  ████████████████████████░   96.64 % 
-HTTP Request     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Markdown         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Go             13 hrs 35 mins  ██████████████████████▓░░   90.19 % 
+HTTP Request   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Markdown       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+textmate       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TOML           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
