@@ -18,10 +18,6 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go             2 hrs 40 mins   ██████████████░░░░░░░░░░░   55.71 % 
-HTTP Request   1 hr 28 mins    ███████▓░░░░░░░░░░░░░░░░░   30.75 % 
-SQL            19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-TOML           11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Python         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
