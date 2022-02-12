@@ -18,6 +18,8 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go             3 hrs 32 mins   ████████████████████████░   95.86 % 
+HTTP Request   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+textmate       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
