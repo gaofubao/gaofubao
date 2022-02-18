@@ -18,12 +18,12 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 13 hrs 25 mins
+Total: 14 hrs 24 mins
 
-Go             11 hrs 21 mins  █████████████████████░░░░   84.60 % 
-HTTP Request   1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Markdown       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-SQL            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-JSON           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Go             12 hrs 9 mins   █████████████████████░░░░   84.39 % 
+HTTP Request   1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Markdown       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+SQL            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JSON           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
