@@ -18,7 +18,6 @@ I am gaofubao:
 
 <!--START_SECTION:waka-->
 ```text
-Go             48 mins         ████████████████████▒░░░░   81.61 % 
-HTTP Request   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
